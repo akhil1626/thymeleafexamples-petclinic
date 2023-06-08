@@ -21,7 +21,8 @@ If you don't have git installed, you can download a `.zip` by pressing on the
 Once downloaded, the application can be locally started with:
 
 ```
-	mvn tomcat7:run
+	mvn tomcat7:run 
+	a comment added by gowtham
 ```
 
 Which will start a Tomcat server you can access at: http://localhost:8080/petclinic/
